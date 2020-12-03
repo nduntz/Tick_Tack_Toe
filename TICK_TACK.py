@@ -147,13 +147,4 @@ def flip_player():
 play_game()
 
 
-#board 
-#display board 
-#Play game 
-#handle turn
-#check win 
-    #check rows 
-    #check collums
-    #check diagonals 
-#check tie 
-#flip player 
+ 
